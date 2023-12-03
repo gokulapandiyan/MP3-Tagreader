@@ -5,3 +5,5 @@
  This program has few limitations  
 
  you can get informations by compiling and running using -h or --help ad command line arguments
+
+ feel free to get me at gokulpandiiyan17012002@gmail.com
